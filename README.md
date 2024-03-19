@@ -20,14 +20,16 @@
 </center>
 <hr>
 
-<center>
-<h2>Minhas tecnologias</h2>
+
+<center><h2>Minhas tecnologias</h2></center>
+
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" heigh="70px" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" heigh="70px" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" heigh="70px" width="70px"/>
 
 
-</center>
+</p>
 <br>
 
 ![Giovanni GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanni&show_icons=true&theme=dracula)
