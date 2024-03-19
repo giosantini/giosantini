@@ -21,7 +21,7 @@
 <hr>
 
 
-<center><h2>Minhas tecnologias</h2></center>
+<h2 align="center">Minhas tecnologias</h2>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" heigh="70px" width="70px"/>
